@@ -8,7 +8,7 @@ Aut0 est un auto-clicker simple et personnalisable qui vous permet de choisir le
 
 - Personalisation des touches
 
-- Interface minimaliste.
+- Interface basique
 
 # À propos
 Version actuelle : 0.1.0 (Bêta)
