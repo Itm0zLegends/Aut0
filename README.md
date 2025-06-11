@@ -1,17 +1,17 @@
-# Aut0 - AutoClicker Personnalisable (Version Bêta 0.1)
+# Aut0 - AutoClicker Personnalisable (Version Bêta 0.2)
 Aut0 est un auto-clicker simple et personnalisable qui vous permet de choisir le bouton de la souris à cliquer automatiquement.
 
-⚠️ Ceci est une version bêta : l’interface est basique et certaines fonctionnalités peuvent encore évoluer.
+⚠️ Ceci est une version bêta : L'interface ou certaines fonctionnalités peuvent encore évoluer.
 
 
 # Fonctionnalités
 
 - Personalisation des touches
 
-- Interface basique
+- Interface moderne
 
 # À propos
-Version actuelle : 0.1.0 (Bêta)
+Version actuelle : 0.2.0 (Bêta)
 
 Créateur : https://github.com/Itm0zLegends/
 
